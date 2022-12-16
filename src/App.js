@@ -325,8 +325,8 @@ function App() {
               <img src="volkswagen-dark.svg" alt="" />
               <img src="box-dark.svg" alt="" />
               <img src="netapp-dark.svg" alt="" />
-              <img src="eventbrite-dark.svg" alt="" />
-              <img src="tcs-dark.svg" alt="" />
+              <img className="hidden lg:inline-block" src="eventbrite-dark.svg" alt="" />
+              <img className="hidden lg:inline-block" src="tcs-dark.svg" alt="" />
             </div>
           </div>
 
